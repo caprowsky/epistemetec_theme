@@ -911,9 +911,14 @@ text-align:right;
 #block-user-0 {
   margin: 0;
   position: absolute;
-  left: 840px;
+  left: 710px;
   top: 3px;
   z-index: 10;
+  width:200px;
+}
+
+.grid16-1 {
+  width:200px;
 }
 #block-user-0 .block-inner {
   color: #222;
