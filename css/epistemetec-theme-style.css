@@ -982,3 +982,9 @@ display:inline;
 #form_epistemetec input.form-text {
 max-width:70%;
 }
+
+/*Elimina l'elenco puntanto dalle bandierine della lingua */
+
+#block-locale-0 ul {
+list-style-type:none;
+}
