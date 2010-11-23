@@ -227,6 +227,7 @@ margin-top:0px;
 /*  Main Area (content + sidebars + preface bottom + postscript top)
 -------------------------------------------------------------- */
 .main-wrapper {
+min-height:440px;
 }
 
 
