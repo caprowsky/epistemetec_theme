@@ -988,3 +988,9 @@ max-width:70%;
 #block-locale-0 ul {
 list-style-type:none;
 }
+
+div.block-locale ul li {
+  display: inline;
+  list-style-image: none;
+  margin: 0px 2px;
+}
