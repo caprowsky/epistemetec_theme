@@ -995,3 +995,22 @@ div.block-locale ul li {
   list-style-image: none;
   margin: 0px 2px;
 }
+
+/* Search fluid grid */
+
+div.div-container {
+  width: 150px;
+  display:inline;
+  float:left;
+}
+
+div.div-item {
+  width: 150px;
+  display:inline;
+}
+
+div.searchtitle {
+  width: 150px;
+  display:inline;
+}
+
