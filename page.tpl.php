@@ -48,7 +48,9 @@
       <?php print theme('grid_row', $header_top, 'header-top', 'full-width', $grid_width); ?>
 
       <!-- header-group row: width = grid_width -->
-      
+
+      <?php print theme('grid_block', $breadcrumb, 'breadcrumbs'); ?>
+      <?php print theme('grid_block', $library, 'library'); ?>       
 
       <!-- preface-top row: width = grid_width -->
       <?php print theme('grid_row', $preface_top, 'preface-top', 'full-width', $grid_width); ?>
